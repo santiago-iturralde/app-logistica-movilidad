@@ -42,19 +42,18 @@ Arquitectura robusta que permite a la app seguir funcionando (consultar historia
 
 > *Diseño centrado en la usabilidad rápida para conductores en movimiento.*
 
-| Introduccion/Informacion | 
-|:---:|:---:|:---:|
-| <img width="389" height="874" alt="1_remis" src="https://github.com/user-attachments/assets/1ddb0c6e-198a-4f03-a7ae-138ea3c1a79c" /> |
-| <img width="386" height="852" alt="2_remis" src="https://github.com/user-attachments/assets/3a09e589-86f9-4336-ba3d-30af72e8bd4c" /> |
+Introduccion/Informacion
+<img width="389" height="874" alt="1_remis" src="https://github.com/user-attachments/assets/1ddb0c6e-198a-4f03-a7ae-138ea3c1a79c" /> 
+<img width="386" height="852" alt="2_remis" src="https://github.com/user-attachments/assets/3a09e589-86f9-4336-ba3d-30af72e8bd4c" /> 
 
-| Login / Inicio | Solicitud de Viaje | 
-|:---:|:---:|:---:|
-| <img width="392" height="878" alt="3_remis" src="https://github.com/user-attachments/assets/266bccec-8209-4ea8-8d93-de54cff5fbf2" /> 
-| ![4_remis](https://github.com/user-attachments/assets/52815bb3-173b-426f-beca-546af68ee64f) |
+Login / Inicio
+<img width="392" height="878" alt="3_remis" src="https://github.com/user-attachments/assets/266bccec-8209-4ea8-8d93-de54cff5fbf2" /> 
+ Solicitud de Viaje  
+![4_remis](https://github.com/user-attachments/assets/f828d4a5-bb8a-42a6-a06e-e650b3766be2)
 
-|Menu|
-|:---:|:---:|:---:|
-| ![5_remis](https://github.com/user-attachments/assets/f6c018d2-7550-404f-b33e-6234efbe8877)|
+
+Menu
+![5_remis](https://github.com/user-attachments/assets/f6c018d2-7550-404f-b33e-6234efbe8877)
 
 ---
 ### 👨‍💻 Santiago Iturralde - Mobile & Backend Developer
