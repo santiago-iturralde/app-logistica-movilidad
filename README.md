@@ -42,13 +42,19 @@ Arquitectura robusta que permite a la app seguir funcionando (consultar historia
 
 > *Diseño centrado en la usabilidad rápida para conductores en movimiento.*
 
-| Login / Inicio | Solicitud de Viaje | Seguimiento en Vivo |
+| Introduccion/Informacion | 
 |:---:|:---:|:---:|
-| <img src="images/1_remis.png" width="200" alt="Login Screen"> | <img src="images/2_remis.png" width="200" alt="Booking Screen"> | <img src="images/3_remis.png" width="200" alt="Live Tracking"> |
+| <img width="389" height="874" alt="1_remis" src="https://github.com/user-attachments/assets/1ddb0c6e-198a-4f03-a7ae-138ea3c1a79c" /> |
+| <img width="386" height="852" alt="2_remis" src="https://github.com/user-attachments/assets/3a09e589-86f9-4336-ba3d-30af72e8bd4c" /> |
 
-| Perfil de Usuario | Historial de Viajes | Chat In-App |
+| Login / Inicio | Solicitud de Viaje | 
 |:---:|:---:|:---:|
-| <img src="images/4_remis.png" width="200" alt="User Profile"> | <img src="images/5_remis.png" width="200" alt="Trip History"> | <img src="images/chat_screen.png" width="200" alt="Chat Support"> |
+| <img width="392" height="878" alt="3_remis" src="https://github.com/user-attachments/assets/266bccec-8209-4ea8-8d93-de54cff5fbf2" /> 
+| ![4_remis](https://github.com/user-attachments/assets/52815bb3-173b-426f-beca-546af68ee64f) |
+
+|Menu|
+|:---:|:---:|:---:|
+| ![5_remis](https://github.com/user-attachments/assets/f6c018d2-7550-404f-b33e-6234efbe8877)|
 
 ---
 ### 👨‍💻 Santiago Iturralde - Mobile & Backend Developer
